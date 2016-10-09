@@ -11,3 +11,5 @@ What are some situations when branches would be helpful in keeping your history 
 	In keeping track of a specific version of the files.
 How do the diagrams help you visualize the branch structure?
 	It can help you detemine what is a reachable commit.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	The merge combines all commits into one, accessible path.
